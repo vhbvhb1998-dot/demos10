@@ -1,1 +1,1 @@
-# demos10
+print("hello")
